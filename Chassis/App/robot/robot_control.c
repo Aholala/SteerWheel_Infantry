@@ -1,3 +1,14 @@
+/**
+ * @file robot_control.c
+ * @author Ahola邱泽钦 (aholace0328@gmail.com)
+ * @brief 
+ * @version 1.0
+ * @date 2026-08-11
+ * 
+ * @copyright Copyright (c) 2026
+ * 
+ */
+
 #include "robot_internal.h"
 
 #include "app_command.h"
